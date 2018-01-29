@@ -1,0 +1,21 @@
+!.gitkeep
+node_modules/
+typings/
+bower_components/
+.DS_Store
+
+# ignore IntelliJ IDEA config files
+*.iml
+.idea/
+
+# compiled code
+target/
+
+# temporary and local files
+*.log
+*.log.gz
+*.rdb
+*.bak
+*.local
+tmp
+logs/*
